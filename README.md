@@ -2,7 +2,8 @@
 Testando o github
 
  #Nesse arquivo vamos prender a editar e alguns comandos do git.
-#Comandos 
+ 
+#Comandos :c🎛️
 
 <Criar novo repositório
 git init
